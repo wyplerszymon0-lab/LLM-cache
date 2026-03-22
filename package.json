@@ -1,0 +1,12 @@
+{
+  "name": "llm-cache",
+  "version": "1.0.0",
+  "description": "Caching layer for LLM API calls — reduces costs and latency for repeated prompts",
+  "main": "src/cache.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
